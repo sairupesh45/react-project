@@ -1,0 +1,40 @@
+{
+  "user": [
+    {
+      "fname": "sai",
+      "lname": "rupesh",
+      "mobile": "7200386633",
+      "email": "sairupeshmaruboyina@gmail.com",
+      "uname": "rupesh 123",
+      "password": "1234",
+      "id": "iru9qVJ5Adw"
+    },
+    {
+      "fname": "naveen ",
+      "lname": "muthu",
+      "mobile": "88255 90766",
+      "email": "naveenmuthu@gmail.com",
+      "uname": "naveen",
+      "password": "143",
+      "id": "H4_NNlgZ7js"
+    },
+    {
+      "fname": "rakesh",
+      "lname": "konichi ",
+      "mobile": " 83082 94278",
+      "email": "rakeshkonichi@gmail.com",
+      "uname": "rakesh",
+      "password": "567",
+      "id": "a1aZsEdI5F0"
+    }
+  ],
+  "admin": [
+    {
+      "username": "admin",
+      "password": "1234",
+      "id": "1yxerJiqUKc"
+    }
+  ],
+  "products": [],
+  "$schema": "./node_modules/json-server/schema.json"
+}
